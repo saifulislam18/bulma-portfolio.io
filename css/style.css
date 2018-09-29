@@ -1,0 +1,23 @@
+.hero-head{
+    border-bottom: 1px solid #cccccc;
+}
+.hero-body{
+    border-bottom: 1px solid #cccccc;
+}
+.portfolio{
+    padding: 3em 0 3em 0;
+}
+.about-me{
+    padding: 3em 0 3em 0;
+    background: #e5e5e5;
+}
+.social-icon{
+    margin-top: 1em; 
+}
+.footer{
+    padding: 1em 0 3em 0;
+}
+.footer-item{
+    display: inline;
+    margin-right: 10px; 
+}

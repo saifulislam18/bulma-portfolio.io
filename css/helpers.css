@@ -1,0 +1,24 @@
+.has-text-danger-dark{
+    color: #de1010;
+}
+.has-padding{
+    padding: 1em 0 1em 0;
+}
+.has-padding-bottom{
+    padding-bottom: .8em; 
+}
+.single-spaced, .single-spaced * {
+    line-height: 1.5;
+}
+.has-padding-top{
+    padding-top: 1em;
+}
+.has-footer-active{
+    color: #36b5b5;
+}
+
+@media (max-width: 768px) {
+    .has-padding-left{
+        padding-left: .3em;
+    }
+}
